@@ -1,0 +1,35 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1563540785764">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="3787675037" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
+    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="apple logo.png" crc="165804370" ref="index"/>
+    <file name="apple logo grey.png" crc="486733164" ref="index"/>
+    <file name="image_large.svg" crc="3986619735" ref="index"/>
+    <file name="image_large_poster_u241.png" crc="414653565" ref="index"/>
+    <file name="logophonex.png" crc="4152950781" ref="index"/>
+    <file name="phonex.png" crc="378101742" ref="index"/>
+    <file name="earman.jpg" crc="199737504" ref="index"/>
+    <file name="macair08.png" crc="9353083" ref="index"/>
+    <file name="series_4__b539g9eyf22u_large.png" crc="4238183564" ref="index"/>
+    <file name="watch__csqqcayzqueu_large.png" crc="374595481" ref="index"/>
+    <file name="macpro.jpg" crc="224571991" ref="index"/>
+    <file name="ipad.png" crc="4245251054" ref="index"/>
+    <file name="arcade.jpg" crc="456541431" ref="index"/>
+    <file name="apple_arcade_logo_tile__c0v90gsic96q_large.png" crc="28921105" ref="index"/>
+    <file name="card.jpg" crc="527159032" ref="index"/>
+    <file name="cardlogo.svg" crc="4102366560" ref="index"/>
+    <file name="cardlogo_poster_u382.png" crc="4252737912" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4196097375" mt="1563540784202" redirect="true"/>
+</manifest>
