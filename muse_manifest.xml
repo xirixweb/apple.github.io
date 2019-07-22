@@ -1,35 +1,51 @@
-<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1563540785764">
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1563787791917">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3779499323" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="321034476" mt="1563787789111" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
-    <file name="index.css" crc="3787675037" ref="index"/>
+    <file name="index.css" crc="140209546" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index"/>
-    <file name="museutils.js" crc="521960461" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:phone>index"/>
+    <file name="museutils.js" crc="521960461" ref="index:phone>index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:phone>index"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:phone>index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:phone>index"/>
+    <file name="museredirect.js" crc="4117159434" ref="index"/>
   </folder>
   <folder name="images">
     <file name="apple logo.png" crc="165804370" ref="index"/>
     <file name="apple logo grey.png" crc="486733164" ref="index"/>
-    <file name="image_large.svg" crc="3986619735" ref="index"/>
-    <file name="image_large_poster_u241.png" crc="414653565" ref="index"/>
-    <file name="logophonex.png" crc="4152950781" ref="index"/>
+    <file name="image_large.svg" crc="3986619735" ref="index:phone>index"/>
+    <file name="image_large_poster_u241.png" crc="414653565" ref="index:phone>index"/>
+    <file name="logophonex.png" crc="4152950781" ref="index:phone>index"/>
     <file name="phonex.png" crc="378101742" ref="index"/>
-    <file name="earman.jpg" crc="199737504" ref="index"/>
+    <file name="earman.jpg" crc="199737504" ref="index:phone>index"/>
     <file name="macair08.png" crc="9353083" ref="index"/>
     <file name="series_4__b539g9eyf22u_large.png" crc="4238183564" ref="index"/>
     <file name="watch__csqqcayzqueu_large.png" crc="374595481" ref="index"/>
-    <file name="macpro.jpg" crc="224571991" ref="index"/>
-    <file name="ipad.png" crc="4245251054" ref="index"/>
-    <file name="arcade.jpg" crc="456541431" ref="index"/>
-    <file name="apple_arcade_logo_tile__c0v90gsic96q_large.png" crc="28921105" ref="index"/>
+    <file name="macpro.jpg" crc="4292838149" ref="index:phone>index"/>
+    <file name="ipad.png" crc="4245251054" ref="index:phone>index"/>
+    <file name="arcade.jpg" crc="3829662536" ref="index:phone>index"/>
+    <file name="apple_arcade_logo_tile__c0v90gsic96q_large.png" crc="28921105" ref="index:phone>index"/>
     <file name="card.jpg" crc="527159032" ref="index"/>
-    <file name="cardlogo.svg" crc="4102366560" ref="index"/>
-    <file name="cardlogo_poster_u382.png" crc="4252737912" ref="index"/>
+    <file name="cardlogo.svg" crc="4102366560" ref="index:phone>index"/>
+    <file name="cardlogo_poster_u382.png" crc="4252737912" ref="index:phone>index"/>
+    <file name="apple logo-u452-fr.png" crc="4222817796" ref="phone>index"/>
+    <file name="apple logo-u452-r-fr.png" crc="3924185852" ref="phone>index"/>
+    <file name="menu icon.png" crc="106792692" ref="phone>index"/>
+    <file name="menu icon-u473-r-fr.png" crc="3837308795" ref="phone>index"/>
+    <file name="phonex-u507-fr.png" crc="3893172230" ref="phone>index"/>
+    <file name="series_4__b539g9eyf22u_large-u509-fr.png" crc="4248939192" ref="phone>index"/>
+    <file name="watch__csqqcayzqueu_large-u510-fr.png" crc="207861374" ref="phone>index"/>
+    <file name="macair08-u513-fr.png" crc="309364798" ref="phone>index"/>
+    <file name="card-u533-fr.jpg" crc="182556821" ref="phone>index"/>
   </folder>
-  <file name="index.html" crc="4196097375" mt="1563540784202" redirect="true"/>
+  <file name="index.html" crc="3856273644" mt="1563787788954" redirect="true"/>
 </manifest>
